@@ -146,6 +146,18 @@ const nikhil = {
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"/>
 
+### Frontend Developer &nbsp;🟢 *Current*
+**Shoora Global Pvt. Ltd.** | Pune, Maharashtra | *Present*
+
+- Developing and maintaining scalable, responsive web interfaces using **React.js**, **Redux Toolkit** and **Tailwind CSS**
+- Translating UI/UX designs into pixel-perfect, reusable and maintainable component architectures
+- Integrating **RESTful APIs** and managing application state efficiently across complex, data-driven modules
+- Optimizing application performance, cross-browser compatibility and overall user experience
+- Following clean-code practices, code reviews and **Git**-based collaborative workflows
+- Working closely with backend developers, designers and stakeholders to deliver production-ready features on schedule
+
+<br/>
+
 ### Full Stack Developer Intern
 **Talentrise Technokrate Pvt. Ltd.** | Nagpur | *2025 – 2026*
 
